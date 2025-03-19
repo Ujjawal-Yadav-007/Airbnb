@@ -1,4 +1,4 @@
-<img width="800" alt="Screenshot 2025-03-19 at 10 03 01 PM" src="https://github.com/user-attachments/assets/0907a621-77b1-499a-9274-631588270b39" />Booking Management System (Airbnb-like)
+Booking Management System (Airbnb-like)
 Project Overview
 
 This Booking Management System is a web-based platform designed for managing hotel bookings, built with Java, Spring Boot, Hibernate, and PostgreSQL. The system follows the Model-View-Controller (MVC) architecture.
